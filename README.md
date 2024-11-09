@@ -1,12 +1,12 @@
 Hello! My name is Ken Hiltenbrand, and I go by @khiltenb here on GitHub.
 
-I use this site for many personal projects and a select few school projects.
+I use this site for both personal projects and learning new skills.
 
-I'm currently trying to brush up on Python, C++, and PHP as well as skills with SQL, HTML and CSS.
+I mainly program in C/C++, but I also either currently work with or have worked with python and javascript.
 
-I'm trying to learn (among other languages) JavaScript, Java, and how to use some pieces of hardware like Arduino.
+I'm currently trying to learn ada, haskell, fortran, and rust but the list grows the more I learn in the industry.
 
-The best way to reach me is my email:  kenhiltenbrand@gmail.com
+If you like anything you see in my repos and want to work on it with me, the best way to reach me is my email:  kenhiltenbrand@gmail.com
 
 <!-- - 👋 Hi, I’m @khiltenb
 - 👀 I’m interested in ...
